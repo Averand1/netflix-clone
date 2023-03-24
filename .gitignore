@@ -27,3 +27,6 @@ package.json
 .gitignore
 .firebaserc
 package-lock.json
+src/.env
+.gitignore
+.gitignore
